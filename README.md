@@ -1,7 +1,7 @@
 ### Hi there, I'm Jonathan and this is my Github page 👋
 
 [![Website](https://img.shields.io/website?label=jaytsystems.com&style=flat-square&url=https%3A%2F%2Fjaytsystems.com)](https://jaytsystems.com)
-[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/JayD_reddit?style=social))](https://www.reddit.com/user/JayD_reddit)
+[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/JayD_reddit?style=social)](https://www.reddit.com/user/JayD_reddit)
 
 
 ## I'm a Developer and a Mechanical Engineer!
@@ -33,6 +33,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
+<br />
 <br />
 
 <details>
