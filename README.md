@@ -4,7 +4,7 @@
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/JayD_reddit?style=social)](https://www.reddit.com/user/JayD_reddit)
 
 
-## I'm a Developer and a Mechanical Engineer!
+## I'm a Devoted and Passionate Developer!
 
 - 🔭 I’m currently working on designing a variety of websites
 - 🌱 Learning is my strong suit and motivation is my will
