@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on designing a variety of websites
 - 🌱 Learning is my strong suit and motivation is my will
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love photography and working out
 
 ### Connect with me:
