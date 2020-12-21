@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="jaytsystems.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="jonathanduarte.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
 
@@ -45,6 +45,6 @@
 
 </details>
 
-[website]: https://www.jaytsystems.com
+[website]: https://www.jonathanduarte.me
 [linkedin]: https://www.linkedin.com/in/jduarte4/
 [reddit]: https://www.reddit.com/user/JayD_reddit
