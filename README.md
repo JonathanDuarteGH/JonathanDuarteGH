@@ -1,6 +1,6 @@
 ### Hi there, I'm Jonathan and this is my Github page 👋
 
-[![Website](https://img.shields.io/website?label=jaytsystems.com&style=flat-square&url=https%3A%2F%2Fjaytsystems.com)](https://jaytsystems.com)
+[![Website](https://img.shields.io/website?label=jonathanduarte.me&style=flat-square&url=https%3A%2F%2Fjonathanduarte.me)](https://jonathanduarte.me)
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/JayD_reddit?style=social)](https://www.reddit.com/user/JayD_reddit)
 
 
